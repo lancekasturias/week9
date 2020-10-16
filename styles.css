@@ -1,0 +1,26 @@
+.font{
+	font-family: 'Francois One', sans-serif;
+}
+
+.font1{
+font-family: 'Roboto Slab', serif;}
+
+
+.zoom {
+	
+  transition: transform .5s; 
+}
+
+.zoom:hover {
+  transform: scale(1.1); 
+}
+
+.margin{
+	margin-bottom:0%;
+padding:2%;
+
+}
+
+.bg{
+background-color:#70A1D7;
+}
